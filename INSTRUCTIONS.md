@@ -57,4 +57,3 @@ Your code cannot contain the character ' (quote), " (double quote) or ` (back qu
 
 So basically, when you see this you should immediately think in terms of Bytes.
 A quick serach on duckduckgo leads you there : https://codegolf.stackexchange.com/questions/71613/generating-the-alphabet-in-javascript
-
